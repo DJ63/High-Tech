@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon>
 <addon id="repository.High-Tech" name="High-Tech" version="1.0." provider-name="DJ63">
-	<extension point="xbmc.addon.repository" name="Name you want to appear in Kodi">
+	<extension point="xbmc.addon.repository" name="High-Tech">
 		<dir>
 			<info compressed="false">https://github.com/DJ63/High-Tech/addons.xml</info>
 			<checksum>http://github.com/DJ63/High-Tech/addons.xml.md5</checksum>
