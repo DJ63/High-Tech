@@ -1,2 +1,2 @@
 # High-Tech
-My First Repository On GitHub
+ My first Repo
